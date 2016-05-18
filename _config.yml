@@ -9,7 +9,7 @@
 title: Hi Rebekah!
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:" 
-\ This is my first website I've ever built and I dedicate it to you. ;)
+This is my first website I've ever built and I dedicate it to you. ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
